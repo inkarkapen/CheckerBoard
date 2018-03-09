@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.blue{
+	width:30px;
+	height: 30px;
+	background-color: blue;
+}
+.red{
+	width:30px;
+	height: 30px;
+	background-color: red;
+}
+.horizontal{
+	display: inline-block;
+	margin: -2px;
+	padding: 0px;
+}
